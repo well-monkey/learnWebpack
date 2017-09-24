@@ -1,0 +1,33 @@
+/*! 版权所有，翻版必究 lxm */
+html {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul {
+  margin: 0;
+  padding: 0;
+}
+div{
+    color:red;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex
+}
+.Ds99dV8zp60H_fh4lcl8- {
+  background-color: #eee;
+  padding: 10px;
+  border: 3px solid #ccc;
+}
